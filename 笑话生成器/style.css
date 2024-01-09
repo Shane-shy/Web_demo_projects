@@ -1,0 +1,25 @@
+body {
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+    width: 350px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+input[type = "text"]{
+    padding: 2px;
+}
+
+button {
+    display: block;
+    font-size: 12px;
+    padding: 4px;
+}
+
+p{
+    background-color: #f8b23b;
+    visibility: hidden;
+}
