@@ -1,0 +1,40 @@
+/* 必写内容 */
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/*添加内容*/
+
+ul {
+  list-style-type: none;
+
+  margin: 0;
+  padding: 0;
+
+  width: 200px;
+}
+
+ul li {
+}
+
+a {
+  display: block;
+  text-align: center;
+  background-color: #f1f1f1;
+
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #555;
+  color: white;
+}
+
+a:active {
+    background-color: #4caf50;
+}
+
+a:visited{
+    color:red;
+}
